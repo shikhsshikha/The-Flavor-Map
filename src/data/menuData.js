@@ -28,19 +28,19 @@ dishes: [
 
 'THAI': {
 name: "Thai",
-compulsory: { id: 4, name: "Pad Thai", price: 320 },
+compulsory: { id: 10, name: "Pad Thai", price: 320 },
 dishes: [
-{ id: 5, name: "Green Curry", price: 350 },
-{ id: 6, name: "Tom Yum Soup", price: 260 }
+{ id: 11, name: "Green Curry", price: 350 },
+{ id: 12, name: "Tom Yum Soup", price: 260 }
 ]
 },
 
 'ITALIAN': {
 name: "Italian",
-compulsory: { id: 1, name: "Margherita Pizza", price: 300 },
+compulsory: { id: 13, name: "Margherita Pizza", price: 300 },
 dishes: [
-{ id: 2, name: "Pasta Alfredo", price: 280 },
-{ id: 3, name: "Garlic Bread", price: 150 }
+{ id: 14, name: "Pasta Alfredo", price: 280 },
+{ id: 15, name: "Garlic Bread", price: 150 }
 ]
 },
 };
